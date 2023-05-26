@@ -15,4 +15,3 @@ COPY bin/build.sh ./
 
 CMD ["./build.sh"]
 
-
