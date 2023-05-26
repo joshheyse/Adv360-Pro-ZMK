@@ -14,3 +14,5 @@ RUN west zephyr-export
 COPY bin/build.sh ./
 
 CMD ["./build.sh"]
+
+
